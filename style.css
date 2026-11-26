@@ -114,3 +114,12 @@ tr:hover{
     color:#22C55E;
     font-weight:bold;
 }
+
+.clasificado{
+    background:rgba(250,204,21,.12);
+}
+
+.clasificado td{
+    color:#FACC15;
+    font-weight:bold;
+}
