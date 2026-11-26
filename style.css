@@ -98,3 +98,11 @@ td{
 tr:hover{
     background:rgba(255,255,255,.05);
 }
+.primer-lugar{
+    background:rgba(255,215,0,0.15);
+}
+
+.primer-lugar td{
+    color:#FFD700;
+    font-weight:bold;
+}
