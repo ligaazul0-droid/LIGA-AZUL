@@ -1,29 +1,32 @@
-body{
-    background:#0B1F3A;
-    color:white;
-    font-family:Arial, sans-serif;
-    margin:0;
+.partido-destacado{
+    max-width:600px;
+    margin:auto;
+    background:#102A52;
+    border-radius:12px;
+    padding:30px;
+    box-shadow:0 0 20px rgba(0,0,0,.3);
 }
 
-header{
+.partido-destacado h3{
+    color:#60A5FA;
+    margin-bottom:10px;
+}
+
+.partido-destacado h2{
+    margin-bottom:20px;
+}
+
+.partido-destacado button{
     background:#2563EB;
-    padding:20px;
-    text-align:center;
-}
-
-nav{
-    background:#081526;
-    padding:15px;
-    text-align:center;
-}
-
-nav a{
     color:white;
-    text-decoration:none;
-    margin:0 15px;
+    border:none;
+    padding:12px 24px;
+    border-radius:8px;
+    cursor:pointer;
+    font-size:16px;
     font-weight:bold;
 }
 
-nav a:hover{
-    color:#60A5FA;
+.partido-destacado button:hover{
+    background:#3B82F6;
 }
