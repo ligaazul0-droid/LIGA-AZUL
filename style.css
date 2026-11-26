@@ -65,3 +65,36 @@ main{
 .partido-destacado button:hover{
     background:#3B82F6;
 }
+.tabla-posiciones{
+    max-width:900px;
+    margin:40px auto;
+    background:#102A52;
+    border-radius:12px;
+    padding:25px;
+    box-shadow:0 0 20px rgba(0,0,0,.3);
+}
+
+.tabla-posiciones h2{
+    text-align:center;
+    color:#60A5FA;
+    margin-bottom:20px;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+}
+
+th{
+    background:#2563EB;
+    padding:15px;
+}
+
+td{
+    padding:12px;
+    border-bottom:1px solid rgba(255,255,255,.1);
+}
+
+tr:hover{
+    background:rgba(255,255,255,.05);
+}
