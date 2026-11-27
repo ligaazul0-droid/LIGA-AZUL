@@ -77,12 +77,17 @@ main {
 }
 
 .bienvenida h2 {
+    color: white;
+    font-size: 2rem;
+    font-weight: 800;
     margin-bottom: 15px;
-    color: #4db8ff;
 }
 
 .bienvenida p {
-    color: #d9d9d9;
+    color: #ffffff;
+    font-size: 1.1rem;
+    font-weight: 500;
+    line-height: 1.6;
 }
 
 /* PARTIDO DESTACADO */
