@@ -89,9 +89,7 @@ main {
     font-weight: 500;
     line-height: 1.6;
 }
-
 /* PARTIDO DESTACADO */
-
 .partido-destacado {
     background: #10295f;
     padding: 30px;
@@ -99,20 +97,16 @@ main {
     text-align: center;
     margin-bottom: 25px;
 }
-
 .partido-destacado h2 {
     color: #4db8ff;
     margin-bottom: 15px;
 }
-
 .partido-destacado h3 {
     margin-bottom: 15px;
 }
-
 .partido-destacado p {
     margin: 8px 0;
 }
-
 .partido-destacado button {
     margin-top: 15px;
     padding: 12px 25px;
@@ -129,7 +123,6 @@ main {
 }
 
 /* PATROCINADORES */
-
 .patrocinadores {
     background: #10295f;
     padding: 30px;
@@ -153,7 +146,7 @@ main {
 }
 
 .sponsors img {
-    width: 120px;
+    width: 130px;
     height: auto;
 }
 
