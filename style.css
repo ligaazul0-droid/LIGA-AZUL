@@ -155,11 +155,6 @@ main {
 .sponsors img {
     width: 120px;
     height: auto;
-
-    <div class="sponsors">
-    <img src="patrocinador1.png" alt="CELUXSA">
-    <img src="patrocinador2.png" alt="CALLE REAL">
-</div>
 }
 
 /* REDES */
