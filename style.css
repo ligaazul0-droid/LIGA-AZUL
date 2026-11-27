@@ -280,3 +280,11 @@ footer {
 .sponsors img:hover {
     transform: scale(1.05);
 }
+
+bienvenida h2,
+.partido-destacado h2,
+.patrocinadores h2,
+.redes h2 {
+    color: white;
+    font-weight: 800;
+}
