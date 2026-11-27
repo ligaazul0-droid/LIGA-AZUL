@@ -266,3 +266,12 @@ footer {
 .social-links a:hover {
     color: #4db8ff;
 }
+.sponsors img {
+    width: 180px;
+    height: auto;
+    transition: 0.3s ease;
+}
+
+.sponsors img:hover {
+    transform: scale(1.05);
+}
