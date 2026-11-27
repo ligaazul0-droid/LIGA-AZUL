@@ -131,7 +131,7 @@ main {
 /* PATROCINADORES */
 
 .patrocinadores {
-    background: #ffffff;
+    background: #10295f;
     padding: 30px;
     border-radius: 15px;
     text-align: center;
@@ -139,7 +139,7 @@ main {
 }
 
 .patrocinadores h2 {
-    color: #4db8ff;
+    color: #ffffff;
     margin-bottom: 20px;
 }
 
